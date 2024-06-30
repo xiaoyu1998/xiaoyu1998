@@ -1,5 +1,6 @@
 ## I am working on a pre-opensource web3 project 👋
-<img width="839" alt="截屏2024-06-18 下午7 14 47" src="https://github.com/xiaoyu1998/xiaoyu1998/assets/39975400/6730d94e-aab7-4862-a2a6-7dc9fdb2398b">
+![截屏2024-06-30 下午11 14 29](https://github.com/xiaoyu1998/xiaoyu1998/assets/39975400/86d2c2a8-9737-4e04-8bca-e65fad678d2c)
+
 
 <!--
 **xiaoyu1998/xiaoyu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
