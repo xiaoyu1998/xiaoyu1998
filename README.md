@@ -1,5 +1,5 @@
-## I am working on a pre-opensource web3 project 👋
-![截屏2024-06-30 下午11 14 29](https://github.com/xiaoyu1998/xiaoyu1998/assets/39975400/86d2c2a8-9737-4e04-8bca-e65fad678d2c)
+## I'm currently working on a pre-opensource web3 project 👋
+![截屏2024-07-25 下午11 00 40](https://github.com/user-attachments/assets/1edb577f-f6de-4416-8177-0164d9ecd681)
 
 
 <!--
