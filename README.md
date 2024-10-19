@@ -1,5 +1,6 @@
 ## I'm currently working on a pre-opensource web3 project 👋
-![截屏2024-08-23 上午12 28 03](https://github.com/user-attachments/assets/2b24ea22-bcc1-4c78-999d-8d0fe54da1e9)
+![截屏2024-10-19 下午8 59 57](https://github.com/user-attachments/assets/2c16d342-b9fc-400a-b2df-5ef784aeb215)
+
 
 
 <!--
