@@ -1,4 +1,4 @@
-## I'm currently working on a pre-opensource web3 project 👋
+## I'm currently working on a pre-opensource solidity/ts project 👋
 ![截屏2024-10-19 下午8 59 57](https://github.com/user-attachments/assets/2c16d342-b9fc-400a-b2df-5ef784aeb215)
 
 
