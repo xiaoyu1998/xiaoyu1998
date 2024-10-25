@@ -1,5 +1,5 @@
-#### 区块链开发电报:xiaoyu@cactuslabs
-#### Blockchain development, Please add my telegram:xiaoyu@cactuslabs
+#### Web3开发电报:xiaoyu@cactuslabs
+#### Web3 and Blockchain development, Please add my telegram:xiaoyu@cactuslabs
 #### I'm currently working on a pre-opensource solidity/ts project 👋, 
 ![截屏2024-10-19 下午8 59 57](https://github.com/user-attachments/assets/2c16d342-b9fc-400a-b2df-5ef784aeb215)
 
