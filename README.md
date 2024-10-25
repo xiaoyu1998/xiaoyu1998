@@ -1,6 +1,6 @@
-## 区块链开发合作电报:xiaoyu@cactuslabs
-## Blockchain development, Please add my telegram:xiaoyu@cactuslabs
-## I'm currently working on a pre-opensource solidity/ts project 👋, 
+区块链开发合作电报:xiaoyu@cactuslabs
+Blockchain development, Please add my telegram:xiaoyu@cactuslabs
+I'm currently working on a pre-opensource solidity/ts project 👋, 
 ![截屏2024-10-19 下午8 59 57](https://github.com/user-attachments/assets/2c16d342-b9fc-400a-b2df-5ef784aeb215)
 
 
