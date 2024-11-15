@@ -1,7 +1,6 @@
 #### Web3开发电报:xiaoyu1998@cactuslabs
 #### Web3 and blockchain development, Please add my telegram:xiaoyu1998@cactuslabs
-#### I'm currently working on a meme margin trading exchanger in solana/rust/solidity/ts 👋, 
-![截屏2024-11-14 下午12 36 49](https://github.com/user-attachments/assets/9cd98b59-ed6e-41b1-8b2f-72908bd3f5b2)
+#### I'm currently working on a meme margin trading exchanger in solana/rust/solidity/ts 👋
 
 
 
