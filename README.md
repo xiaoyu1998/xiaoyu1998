@@ -1,5 +1,5 @@
 #### Web3 and blockchain development, Please add my telegram:xiaoyu1998@cactuslabs
-#### I'm currently working on a meme margin trading exchanger in solana/rust/solidity/ts 👋
+#### I'm currently working on a meme trading bot solana and onevm 👋
 
 
 
