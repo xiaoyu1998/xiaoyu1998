@@ -1,5 +1,5 @@
 #### Web3 and blockchain development, Please add my telegram:xiaoyu1998@cactuslabs
-#### I'm currently working on a meme trading bot for solana and evm 👋
+#### I'm currently working on a stragetgies&market maker trading bot for solana and evm 👋
 
 
 
