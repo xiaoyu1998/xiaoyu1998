@@ -1,4 +1,4 @@
-#### Web3 and blockchain development, Please add my telegram:xiaoyu1998@cactuslabs
+#### Web3 and blockchain development, Please add my telegram:@cactuslabs
 #### I'm currently working on a stragetgies&market maker trading bot for solana and evm 👋
 
 
