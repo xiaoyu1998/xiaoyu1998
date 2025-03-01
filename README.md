@@ -1,5 +1,5 @@
 #### Web3 and blockchain development, Please add my telegram:@cactuslabs
-#### I'm currently working on a stragetgies&market maker trading bot for solana and evm 👋
+#### I'm currently working on a orderbook DEX with 100Ktps👋
 
 
 
