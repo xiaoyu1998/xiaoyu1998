@@ -1,5 +1,5 @@
 #### Web3 and blockchain development, Please add my telegram:@cactuslabs
-#### I'm currently working on an orderbook DEX with 100Ktps and trading bot👋
+#### I'm currently working on an onchain orderbook at 100Ktps with 100ms block time👋
 
 
 
