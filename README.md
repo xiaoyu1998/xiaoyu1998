@@ -1,5 +1,5 @@
 #### Web3 and blockchain development, Please add telegram:@cactuslabs
-#### I'm currently working on an AI-built perpetual DEX and payment network at 100Ktps with 100ms block time👋
+#### I'm currently working on an AI-built perpetual DEX and payment network at 200Ktps with 50ms block time👋
 
 
 
