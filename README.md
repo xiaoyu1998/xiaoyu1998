@@ -1,4 +1,4 @@
-#### Web3 and blockchain development, Please add telegram:@cactuslabs
+#### DEX development, Please add telegram:@cactuslabs
 #### I'm currently working on an AI-built DEX and Payment Network, A high-throughput blockchain with a block time of 10 to 50 milliseconds.
 
 
