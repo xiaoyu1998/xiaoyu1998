@@ -1,4 +1,4 @@
-#### AI Payment Network development, Please add telegram:@cactuslabs
+#### telegram:@cactuslabs
 #### I'm currently working on an AI Payment Network, A 200K tps L1 with a block time of 20 milliseconds.
 
 
