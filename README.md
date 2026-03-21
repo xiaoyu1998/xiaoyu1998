@@ -1,5 +1,5 @@
-#### DEX development, Please add telegram:@cactuslabs
-#### I'm currently working on an AI-built DEX and Payment Network, A 200K tps L1 with a block time of 20 milliseconds.
+#### AI Payment Network development, Please add telegram:@cactuslabs
+#### I'm currently working on an AI Payment Network, A 200K tps L1 with a block time of 20 milliseconds, with AI native payment language.
 
 
 
