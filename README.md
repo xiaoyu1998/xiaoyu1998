@@ -1,5 +1,5 @@
 #### telegram:@cactuslabs
-#### I'm currently working on an AI Payment Network, A 200K tps L1 with a block time of 20 milliseconds.
+#### I'm currently working on a Predict Network, A 200K tps L1 with a block time of 20 milliseconds.
 
 
 
